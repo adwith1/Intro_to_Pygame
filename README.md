@@ -6,4 +6,4 @@ can be located when the program is run. NOTE: Check the bitrate of the mp3 file 
 
 
 
-![](filename Intro_to_Pygame.png)
+
